@@ -1,10 +1,10 @@
 ### <samp>I'm Felipe Elsner Silva</samp>
 
-<samp>23, Student of Computer Science in PUCRS from Porto Alegre, Brazil. </samp>
+<samp>23, Computer Scientist by PUCRS from Porto Alegre, Brazil. </samp>
 
 ###
 
-- I’m currently **Intern at the Apple Developer Academy | PUCRS & Instituto Eldorado**;
+- I’m currently **Professor at the Apple Developer Academy | PUCRS & Instituto Eldorado**;
 
 - I’m currently learning **Swift**, **SwiftUI** and **C#**;
 
